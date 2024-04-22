@@ -11,9 +11,9 @@ import soundfile as sf
 import os
 
 # Set up email parameters
-sender_email = "amirtaque21@gmail.com"
-sender_password = "ssoadrssettslalv"
-recipient_email = "amirtaque21@gmail.com"
+sender_email = "Email_Address"                 # Write Your Email Address on which you want to send the details.
+sender_password = "Password"
+recipient_email = "Email_Address"
 
 # Set up email message
 msg = MIMEMultipart()
